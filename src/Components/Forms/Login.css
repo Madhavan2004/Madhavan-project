@@ -1,0 +1,12 @@
+.App {
+    text-align: Lgin;
+  
+    /*display: flex;*/
+    height: 100%;
+    background-image: linear-gradient(79deg,#7439db,#c66FBC 48%,#F7944D);
+  }
+  #rolex
+  {
+    height: fit-content;
+    width: fit-content;
+  }
